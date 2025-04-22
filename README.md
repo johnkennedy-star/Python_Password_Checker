@@ -1,4 +1,3 @@
-# Python_Password_Checker
 ## 🛡️ Password Strength Checker
 
 A simple Python program that evaluates the strength of a password based on length, character variety, and special symbols. It provides feedback such as "Weak," "Moderate," or "Strong" to help users improve their password security.
